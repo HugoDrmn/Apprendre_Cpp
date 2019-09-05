@@ -5,6 +5,6 @@ Russie          19 18 19
 Allemagne       17 10 15
 Japon           12 8  21
 France          10 18 14
-Coree du Sud    9  3  9
+Coree-du-Sud    9  3  9
 Italie          8 12  8
 Australie       8 11  10
